@@ -1,0 +1,24 @@
+.box {
+    background-color: #d9d9d9;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    width: 1300px;
+}
+
+.col {
+    background-color: #d9d9d9;
+    padding: 20px;
+    border-left: #ccc 2px solid;
+    border-radius: 10px;
+}
+
+.totalPay {
+    background-color: #d9d9d9;
+    border-radius: 20px;
+}
+
+.table {
+    margin-top: 20px;
+    max-width: 1290px;
+}
